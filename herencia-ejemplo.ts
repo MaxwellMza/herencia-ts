@@ -86,7 +86,7 @@ const helado = new ProductoCongelado(
 );
 
 // Temperatura actual de almacenamiento
-const temperaturaActual = -20; // Supongamos que esta es la temperatura actual
+const temperaturaActual = -21; // Supongamos que esta es la temperatura actual
 
 // Verificar si el producto está almacenado correctamente
 const estaAlmacenadoCorrectamente =
